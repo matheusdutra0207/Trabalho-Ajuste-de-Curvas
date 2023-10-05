@@ -9,5 +9,5 @@
 #### 7. Compare os resultados obtidos em 4, 5, 6. 
 #### 8. Calcule o coeficiente de determinação (R2) da regressão linear feita no passo 4 e interprete o resultado. 
 #### 9. Use o arquivo [dados_de_carros.csv](https://github.com/matheusdutra0207/Trabalho-Ajuste-de-Curvas/blob/main/dados/dados_de_carros.csv) para construir um modelo linear de predição de preços de veículos. Utilize o preço de venda e a quilometragem do automóvel para criar um modelo de regressão linear múltipla que realize a predição do preço atual do veículo.
-#### 10. Plote o resultado da regressão feita no passo 8 utilizando os a biblioteca matplotlib.
+#### 10. Plote o resultado da regressão feita no passo 8 utilizando a biblioteca matplotlib.
 #### 11. Explique a ideia do polinômio interpolador de Newton ou de Lagrange.
